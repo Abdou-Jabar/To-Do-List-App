@@ -31,3 +31,13 @@ Une application web simple et élégante de liste de tâches, développée avec 
 
 ## 📂 Structure du projet
 
+to-do-list/
+├── index.html # Page principale
+├── index.js # Script principal
+├── output.css # Fichier CSS généré par Tailwind
+├── unchecked.png # Icône tâche non cochée
+├── checked.png # Icône tâche cochée
+├── task-svgrepo-com.svg # Icône en-tête
+└── README.md # Fichier de documentation
+
+
