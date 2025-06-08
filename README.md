@@ -6,9 +6,7 @@ Une application web simple et élégante de liste de tâches, développée avec 
 
 ## 🚀 Démo
 
-Ajoute une capture d'écran dans le projet avec le nom `screenshot.png` pour prévisualiser ici.
-
-![Demo](./iamge.png)
+![Demo](./image.png)
 
 ---
 
